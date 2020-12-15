@@ -30,7 +30,7 @@
 ## :signal_strength: Technologies
 
 * [Python v3](https://www.python.org/) programming language
-* [Django v3](https://www.djangoproject.com/) web framework
+* [Django v3](https://www.djangoproject.com/) server-side web framework
 * [Bootstrap v4](https://getbootstrap.com/) responsive components.
 * [Django Crispy Forms](https://django-crispy-forms.readthedocs.io/en/latest/#) to control the rendering behavior of your Django forms
 * [geopy v2](https://pypi.org/project/geopy/) Python Geocoding Toolbox
