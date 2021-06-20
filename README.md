@@ -2,6 +2,12 @@
 
 * Python-Django app using the [Python Folium library](https://pypi.org/project/folium/) and [MaxMind GeoLite2 data](https://dev.maxmind.com/geoip/geoip2/geolite2/) to display user location and line-of sight distance to another user-selected location.
 * Code from a 3-part tutorial by [Pyplane](https://www.youtube.com/channel/UCQtHyVB4O4Nwy1ff5qQnyRw)- see [:clap: Inspiration](#clap-inspiration) below.
+* **Note:** to open web links in a new window use: _ctrl+click on link_
+
+![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/python-django-distance?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/python-django-distance?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/python-django-distance?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/python-django-distance?style=plastic)
 
 ## :page_facing_up: Table of contents
 
@@ -77,6 +83,10 @@
 * [How to build a GeoDjango app | Learn Django GeoLocation with Folium (Part 3/3)](https://www.youtube.com/watch?v=8mCGYhQ5azg)
 * [stackOverflow: How do I get user IP address in Django?](https://stackoverflow.com/questions/4581789/how-do-i-get-user-ip-address-in-django)
 
+## :file_folder: License
+
+* N/A
+
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
